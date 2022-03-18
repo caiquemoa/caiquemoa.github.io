@@ -1,0 +1,27 @@
+@import 'main-header.css';
+@import 'resets.css';
+@import 'header-ancor.css';
+@import 'stylized-button.css';
+@import 'main-banner.css';
+@import 'main-tittle.css';
+@import 'main-section.css';
+@import 'skills.css';
+@import 'progress-bar.css';
+@import 'main-projects.css';
+@import 'sobre.css';
+@import 'main-carousel.css';
+@import 'button-arrow.css';
+
+/* <link rel="stylesheet" href="CSS/components/resets.css" />
+<link rel="stylesheet" href="CSS/components/main-header.css" />
+<link rel="stylesheet" href="CSS/components/header-ancor.css" />
+<link rel="stylesheet" href="CSS/components/stylized-button.css" />
+<link rel="stylesheet" href="CSS/components/main-banner.css" />
+<link rel="stylesheet" href="CSS/components/main-tittle.css" />
+<link rel="stylesheet" href="CSS/components/main-section.css" />
+<link rel="stylesheet" href="CSS/components/skills.css" />
+<link rel="stylesheet" href="CSS/components/progress-bar.css" />
+<link rel="stylesheet" href="CSS/components/main-projects.css" />
+<link rel="stylesheet" href="CSS/components/sobre.css" />
+<link rel="stylesheet" href="CSS/components/main-carousel.css" />
+<link rel="stylesheet" href="CSS/components/button-arrow.css" /> */
