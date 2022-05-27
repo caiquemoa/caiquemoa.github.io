@@ -15,3 +15,11 @@
 .stylized-button:hover {
   transform: translateX(10px) rotate(10deg) translateY(5px);
 }
+
+.stylized-button.-form {
+  width: 100%;
+  font-size: 30px;
+}
+.stylized-button.-form:hover {
+  transform: none;
+}
